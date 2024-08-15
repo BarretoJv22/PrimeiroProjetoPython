@@ -8,7 +8,7 @@ restaurantes = [
 
 def exibir_nome_do_programa():
     '''Exibe o nome estilizado do programa na tela'''
-    print('Bᴇᴍ ᴠɪɴᴅᴏ ᴀᴏ Sᴀʙᴏʀ Exᴘʀᴇss \n')
+    print('Bᴇᴍ ᴠɪɴᴅᴏ ᴀᴏ Radar Restaurante \n')
 
 def exibir_opcoes():
     '''Exibe todas as opções do menu principal '''
