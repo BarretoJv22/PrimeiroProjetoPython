@@ -7,7 +7,7 @@
 
 <h1>📱 Aplicativo para Restaurantes</h1>
 
-<p>Bem-vindo ao meu projeto de aplicativo para restaurantes! Este foi meu primeiro projeto utilizando Python, onde desenvolvi um sistema simples com funcionalidades básicas para gerenciar restaurantes.</p>
+<p>Bem-vindo ao meu projeto <b>Radar Restaurante</b>! Este foi meu primeiro projeto utilizando Python, onde desenvolvi um sistema simples com funcionalidades básicas para gerenciar restaurantes.</p>
 
 <h2>🚀 Funcionalidades</h2>
 <ul>
